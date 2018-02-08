@@ -1,3 +1,7 @@
 hello test
 
+<<<<<<< HEAD
 Mitali
+=======
+Frankey Mehta
+>>>>>>> 9a9041b7a6f84f50b6a072b512c9cddf883563f0
